@@ -52,9 +52,8 @@ We have a rich dataset from Car Dheko, comprising historical prices of used cars
 ## 🎉 Results
 - A **functional and accurate machine learning model** for predicting used car prices.
 - Comprehensive **analysis and visualizations** of the dataset.
-- Detailed **documentation** explaining the methodology, models, and results.
 - An **interactive Streamlit application** for real-time price predictions based on user input.
 
----
+
 
 This README document is designed to provide a clear and comprehensive overview of your project, guiding users and contributors through the problem statement, objectives, approach, and results.
