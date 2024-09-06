@@ -16,6 +16,17 @@ We have a rich dataset from Car Dheko, comprising historical prices of used cars
 1. **Develop a robust machine learning model** to predict the prices of used cars based on the provided features.
 2. **Integrate this model into a Streamlit web application** that allows users to input car details and receive an estimated price instantly.
 
+## Key skills & Packages
+Python: Core programming language used throughout the project.
+Pandas: For data manipulation and analysis.
+JSON: Parsing nested JSON data structures within the dataset.
+VSCode and Colab: Development environment used for data processing and initial explorations.
+Excel: Source data format, with reading and writing handled by Python libraries.
+Sklearn: For Model building, training and evaluation
+NumPy: For data processing
+SciPy: For statistics
+Streamlit: For deploying the App
+
 ## 🚀 Approach
 
 ### 1. Data Processing
